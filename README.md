@@ -33,11 +33,4 @@ Direfact, Fábrica de Derivadas es un videojuego educativo desarrollado en Roblo
 | RNF-02 | No funcional (rendimiento / fiabilidad) | El sistema validará cada respuesta en un máximo de 3 segundos y mantendrá el contador sincronizado en el equipo. | Marcar respuestas en varias salas, cronometrar la reacción y comparar el contador entre dos jugadores. | Cada validación responde en 3 s o menos y los contadores difieren en 1 s o menos. |
 
 ## Documentación
-
-- [`CP2_Requerimientos_y_Pruebas.pdf`](CP2_Requerimientos_y_Pruebas.pdf): documento completo con el análisis de requisitos, la propuesta de pruebas y, al final, la evidencia de configuración de colaboradores.
-
-> Los casos de prueba son propuestas teóricas; no se ejecutaron.
-## Documentación
-
-- [`CP2_Requerimientos_y_Pruebas.pdf`](CP2_Requerimientos_y_Pruebas.pdf): documento con el análisis de requisitos y la propuesta de pruebas.
-
+- [`TPE4_Requerimientos_y_Pruebas.pdf`](TPE4_Requerimientos_y_Pruebas.pdf): documento completo con el análisis de requisitos, la propuesta de pruebas y, al final, la evidencia de configuración de colaboradores.
